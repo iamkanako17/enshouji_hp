@@ -62,7 +62,7 @@ export default {
       drawer: false,
       items: [
         {
-          icon: 'mdi-apps',
+          icon: 'mdi-home',
           title: 'ホーム',
           to: '/',
         },
